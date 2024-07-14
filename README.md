@@ -23,9 +23,4 @@
 <h3>Demo</h3>
 <p>https://katherinakulinich.github.io/layout_____bakery/</p>
 
-<h3>Preview</h3>
-<p align='center'>
-  <img width='600' src="https://github.com/KatherinaKulinich/layout_____bakery/assets/109860560/ab8f7ba7-1d07-41b1-8475-620673c0c6ae"/>
-</p>
-
 
