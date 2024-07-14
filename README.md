@@ -2,7 +2,7 @@
 <h4  align="center"> ‧𓍢ִ໋☕ ׂ 𓈒 ⋆ ۪  Khanchai.com ‧𓍢ִ໋☕ ׂ 𓈒 ⋆ ۪ /h4>
 
 <p  align="center">
-  <img width="146" alt="Снимок экрана 2023-10-26 в 18 25 30" src="https://github.com/KatherinaKulinich/layout_____bakery/assets/109860560/f0847276-1189-4ef2-b4a4-837fd1e3dac5">
+  <img width="146" alt="">
 </p>
 
 <h3>Tools and technologies</h3>
