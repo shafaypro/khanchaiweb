@@ -21,6 +21,6 @@
 
 
 <h3>Demo</h3>
-<p>https://katherinakulinich.github.io/layout_____bakery/</p>
+<p>https://www.khanchai.com/</p>
 
 
